@@ -1,0 +1,19 @@
+{
+  "name": "my-codedeploy-app",
+  "version": "1.0.0",
+  "description": "my aws code deploy app",
+  "main": "ecosystem.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertBohn/my-codedeploy-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertBohn/my-codedeploy-app/issues"
+  },
+  "homepage": "https://github.com/RobertBohn/my-codedeploy-app#readme"
+}
